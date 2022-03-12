@@ -1,4 +1,4 @@
-# images-gallery-react
+# image-gallery-react
 
     Responsive React Images Gallery With API
 
