@@ -12,4 +12,4 @@
 
 # Preview
 
-![React Movies](https://user-images.githubusercontent.com/76922296/156870941-95775569-4d1d-40a1-80b5-d44cad37de81.png)
+![Images Gallery](https://user-images.githubusercontent.com/76922296/158008816-17fa6ee2-0f34-445b-8438-7c536b5db26e.png)
