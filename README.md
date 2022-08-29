@@ -4,7 +4,7 @@
 
 # Link of Website
 
-    https://ahmedtarekelhelw.github.io/Image-gallery-react/
+    https://awesomeimage-gallery.netlify.app/
 
 # Resource
 
