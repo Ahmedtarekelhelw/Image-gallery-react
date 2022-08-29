@@ -107,16 +107,4 @@ h3 {
   margin-top: 70px;
 }
 
-.print-btn {
-  display: block;
-  margin: 10px auto;
-  padding: 9px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  background: crimson;
-  color: #fff;
-  font-size: 15px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-}
+

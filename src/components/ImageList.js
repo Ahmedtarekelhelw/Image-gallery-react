@@ -1,15 +1,6 @@
 export default function ImageList(props) {
   let tags = props.image.tags.split(",");
 
-  const handlePrint = (e) => {
-    let printContents = e.target.parentNode.innerHTML;
-    document.body.innerHTML = printContents;
-
-    window.print();
-
-    window.location.reload();
-  };
-
   return (
     <div className="card">
       <img src={props.image.webformatURL} alt="img" />
@@ -35,9 +26,6 @@ export default function ImageList(props) {
           ))}
         </div>
       </div>
-      <button className="print-btn" onClick={handlePrint}>
-        Print Image
-      </button>
     </div>
   );
 }
